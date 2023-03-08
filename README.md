@@ -14,4 +14,4 @@ The AIM of this assignment is to practice with Inheritance in C++. <br />
 
 # Note
 
-The Description.pdf contains the detailed description of this repository. <br />
+The Description.docx contains the detailed description of this repository. <br />
